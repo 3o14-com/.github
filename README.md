@@ -1,5 +1,5 @@
 <div align="center">
-    <img style="border-radius: 15px; overflow: hidden;" src="/assets/profile.png" width="80" />
+    <img style="border-radius: 15px; overflow: hidden;" src="/assets/image.png" width="80" />
     <h1>3o14</h1>
 </div>
 <div style="border-radius: 15px; overflow: hidden;">
