@@ -1,9 +1,9 @@
 <div align="center">
-    <img style="border-radius: 15px; overflow: hidden;" src="/assets/image.png" width="80" />
+    <img style="border-radius: 15px; overflow: hidden;" src="/profile/assets/image.png" width="80" />
     <h1>3o14</h1>
 </div>
 <div style="border-radius: 15px; overflow: hidden;">
-  <img src="/assets/backdrop.png" />
+  <img src="/profile/assets/backdrop.png" />
 </div>
 <div align="center">
     A federated social media focusing on scientific communication.
