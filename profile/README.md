@@ -1,13 +1,12 @@
-<div align="center">
+<div class="𝔉𝔯𝔞𝔨𝔱𝔲𝔯" align="center">
     <img src="/profile/assets/image.png" width="80" />
-    <h1>3𝓸14</h1>
+    <h1>3𝔬14</h1>
 </div>
 <div>
   <img src="/profile/assets/backdrop.png" />
 </div>
-<div class="𝓢𝓬𝓻𝓲𝓹𝓽 𝓑𝓸𝓵𝓭" align="center">
-𝓐 𝓯𝓮𝓭𝓮𝓻𝓪𝓽𝓮𝓭 𝓼𝓸𝓬𝓲𝓪𝓵 𝓶𝓮𝓭𝓲𝓪 𝓯𝓸𝓬𝓾𝓼𝓲𝓷𝓰 𝓸𝓷 𝓼𝓬𝓲𝓮𝓷𝓽𝓲𝓯𝓲𝓬 𝓬𝓸𝓶𝓶𝓾𝓷𝓲𝓬𝓪𝓽𝓲𝓸𝓷
-</div>
+<div class="𝑰𝒕𝒂𝒍𝒊𝒄 (Mathematical Italic)" align="center">
+𝐴 𝑓𝑒𝑑𝑒𝑟𝑎𝑡𝑒𝑑 𝑠𝑜𝑐𝑖𝑎𝑙 𝑚𝑒𝑑𝑖𝑎 𝑓𝑜𝑐𝑢𝑠𝑖𝑛𝑔 𝑜𝑛 𝑠𝑐𝑖𝑒𝑛𝑡𝑖𝑓𝑖𝑐 𝑐𝑜𝑚𝑚𝑢𝑛𝑖𝑐𝑎𝑡𝑖𝑜𝑛.</div>
 <div align="center">
-𝓦𝓮 𝓹𝓮𝓸𝓹𝓵𝓮 𝓸𝓯 𝓼𝓬𝓲𝓮𝓷𝓬𝓮 𝓱𝓪𝓿𝓮 𝓸𝓾𝓻 𝓸𝓽𝓱𝓮𝓻 𝓵𝓪𝓷𝓰𝓾𝓪𝓰𝓮 𝓸𝓯 𝓬𝓸𝓶𝓶𝓾𝓷𝓲𝓪𝓽𝓲𝓸𝓷 𝓽𝓸𝓸
+𝑊𝑒, 𝑡ℎ𝑒 𝑝𝑒𝑜𝑝𝑙𝑒 𝑜𝑓 𝑠𝑐𝑖𝑒𝑛𝑐𝑒, 𝑠ℎ𝑎𝑟𝑒 𝑎 𝑢𝑛𝑖𝑣𝑒𝑟𝑠𝑎𝑙 𝑙𝑎𝑛𝑔𝑢𝑎𝑔𝑒 𝑜𝑓 𝑑𝑖𝑠𝑐𝑜𝑣𝑒𝑟𝑦.
 </div>
