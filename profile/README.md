@@ -1,6 +1,6 @@
 <div class="𝔉𝔯𝔞𝔨𝔱𝔲𝔯" align="center">
     <img src="/assets/image.png" width="175" />
-    <!-- <h1>3𝔬14</h1> -->
+    <h1>A DECENTRALIZED SOCIAL MEDIA FOR SCIENTIFIC COMMUNICATION</h1>
 </div>
 <div>
   <img src="/assets/backdrop.png" />
